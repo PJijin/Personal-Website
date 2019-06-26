@@ -4,12 +4,12 @@ const config = {
 	blog: 'Dev', // Dev.to or Medium (Make blank if you don't need the blog)
 
 	// Social media profile username
-	github: '', // [REQUIRED] Github Username
-	twitter: '', // Twitter Username
-	stackoverflow: '', // Eg: 3211944
+	github: 'pjijin', // [REQUIRED] Github Username
+	twitter: 'pjijin', // Twitter Username
+	stackoverflow: '3211944', // Eg: 3211944
 	medium: '', // without @ symbol
 	instagram: '',
-	dev: '',
+	dev: 'pjijin',
 	youtube: '', // Channel ID
 	linkedin: ''
 };
