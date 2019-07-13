@@ -2,7 +2,17 @@
 
 [![Personal Website](https://github.com/PJijin/Personal-Website/blob/master/preview.png?raw=true 'Personal Website')]()
 
-# Features
+<p align="center"><sub>Built with ♥️</sub></p>
+
+---
+<p  align="center">
+    
+<a>[![repo size](https://img.shields.io/github/repo-size/PJijin/Personal-Website.svg)](https://github.com/PJijin/Personal-Website/archive/master.zip) </a>
+<a>[![Donate](https://img.shields.io/badge/$-donate-3366FF.svg)](https://www.buymeacoffee.com/PJijin) </a>
+
+</p>
+
+# Features ✨
 
 Automatically shows your GitHub public repo, blog posts (dev.to or medium) on your personal website.
 
@@ -34,9 +44,6 @@ Automatically shows your GitHub public repo, blog posts (dev.to or medium) on yo
     npm run start
     ```
 
-# ToDo
-
-[] Portfolio Page
 
 # 🤝 Contributing
 
