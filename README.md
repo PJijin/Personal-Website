@@ -2,7 +2,7 @@
 
 [![Personal Website](https://github.com/PJijin/Personal-Website/blob/master/preview.png?raw=true 'Personal Website')]()
 
-<p align="center"><sub>Built with ♥️</sub></p>
+<p align="center"><sub>Code with ♥️</sub></p>
 
 ---
 <p  align="center">
