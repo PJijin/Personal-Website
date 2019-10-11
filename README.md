@@ -1,5 +1,12 @@
 # Personal Website Template
 
+### Other projects:
+
+- 🏙 [Cover Image Generator](https://github.com/PJijin/Cover-Image-Generator) - Generate a cover image for your blog post online.
+- 🔖 [MarkDown](https://github.com/JP1016/Markdown) - Live Markdown Generator
+- 🗒 [Paper](https://github.com/JP1016/Paper) - A "no-cloud" note taking app with "networkless" sharing.
+- 👨‍💻 [ShowPath](https://github.com/PJijin/Show-Path) - Learning Path for Programmers
+
 [![Personal Website](https://github.com/PJijin/Personal-Website/blob/master/preview.png?raw=true 'Personal Website')]()
 
 <p align="center"><sub>Code with ♥️</sub></p>
