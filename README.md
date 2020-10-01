@@ -27,7 +27,7 @@ Automatically shows your GitHub public repo, blog posts (dev.to or medium) on yo
 
 -   Show Medium or Dev.to Blog Posts
 
-# Usage
+# Usages
 
 1. Clone the Repository
 
@@ -52,10 +52,10 @@ Automatically shows your GitHub public repo, blog posts (dev.to or medium) on yo
     ```
 
 
-# 🤝 Contributing
+# 🤝 Contribution
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues and feature requests are always welcomed !!
 
-# Show your support
+# 👉 Show your support
 
-Give a ⭐️ if this project helped you!
+Give a star(⭐️), if this project helped you so much !!
